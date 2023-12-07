@@ -14,7 +14,6 @@
 	let officeTotal = 0;
 	let retailTotal = 0;
 	let carparkTotal = 0;
-	let grandTotal = 0;
 
 	export let data;
 
